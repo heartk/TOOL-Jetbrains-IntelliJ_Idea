@@ -16,8 +16,8 @@ Reset vim Emulator shortcuts in new key componet : Ctrl + Alt + Shift + A
 
 noun [ C ] UK ​ /ˈemjʊleɪtər/ US ​
 
-*a person, group, product, etc. that copies the behaviour of another person, etc.:*
-The growth of iTunes and its emulators has forced changes in regulations governing the sale of music.
+a person, group, product, etc. that copies the behaviour of another person, etc.: 
+*The growth of iTunes and its emulators has forced changes in regulations governing the sale of music.*
 
-*IT a computer system that is designed to behave in the same way as a different system:*
-You will need to install a Windows emulator to run Microsoft programs on a Linux machine.
+IT a computer system that is designed to behave in the same way as a different system: 
+*You will need to install a Windows emulator to run Microsoft programs on a Linux machine.*
