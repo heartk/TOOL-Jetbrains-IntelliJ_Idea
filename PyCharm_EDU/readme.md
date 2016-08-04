@@ -1,5 +1,5 @@
 
-Recently, I want learn a new program language. I find a advanced tool to learn python.
+Recently, I feel like to learn a new program language. I find an advanced tool to learn python.
 
 Computer programming studies are one of today’s major global trends, driven by open-access, non-credit education. 
 Python is currently the most popular language used to teach programming for beginners. 
